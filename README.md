@@ -1,5 +1,5 @@
 # Collection Tracker
-URL - https://collection-manager-tlhn.vercel.app/dashboard
+URL - https://collection-manager-tlhn.vercel.app
 
 A full-stack web application built with Next.js and MongoDB for managing collectible items like Pokémon cards, Yu-Gi-Oh! cards, and comic books.
 
